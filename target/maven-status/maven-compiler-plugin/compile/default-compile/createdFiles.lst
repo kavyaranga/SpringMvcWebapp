@@ -1,0 +1,11 @@
+com\mymock\dao\ILoginDAO.class
+com\mymock\Service\LoginService.class
+com\mymock\dao\IStudentDAO.class
+com\mymock\dao\LoginDAO.class
+com\mymock\Service\ILoginService.class
+com\mymock\dao\StudentDAO.class
+com\mymock\Service\StudentService.class
+com\mymock\mvc\MainClass.class
+com\mymock\domain\Student.class
+com\mymock\domain\User.class
+com\mymock\Service\IStudentService.class
